@@ -1,0 +1,7 @@
+12:01 23:40:07.987 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:01 23:41:50.518 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:01 23:42:03.786 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 15.286 seconds (JVM running for 16.603)
+12:01 23:43:53.854 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:01 23:43:58.303 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 5.531 seconds (JVM running for 131.12)
+12:01 23:44:13.439 [http-nio-8002-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:01 23:44:13.596 [http-nio-8002-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave

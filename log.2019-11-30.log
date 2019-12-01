@@ -1,0 +1,19 @@
+11:30 23:17:22.296 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on LAPTOP-AIM543VM with PID 23616 (C:\Users\my476\Downloads\ShoppingAppShipping\ShoppingAppShipping\target\classes started by my476 in C:\Users\my476\Downloads\ShoppingAppShipping\ShoppingAppShipping)
+11:30 23:17:22.302 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:30 23:18:16.641 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on LAPTOP-AIM543VM with PID 27508 (C:\Users\my476\Downloads\ShoppingAppShipping\ShoppingAppShipping\target\classes started by my476 in C:\Users\my476\Downloads\ShoppingAppShipping\ShoppingAppShipping)
+11:30 23:18:16.645 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:30 23:18:27.913 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 11.81 seconds (JVM running for 12.621)
+11:30 23:18:27.989 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:30 23:18:28.121 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:30 23:18:28.122 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:30 23:18:28.128 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:30 23:40:58.919 [http-nio-8081-exec-5] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:30 23:42:59.379 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on LAPTOP-AIM543VM with PID 27508 (C:\Users\my476\Downloads\ShoppingAppShipping\ShoppingAppShipping\target\classes started by my476 in C:\Users\my476\Downloads\ShoppingAppShipping\ShoppingAppShipping)
+11:30 23:42:59.380 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:30 23:43:02.700 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 3.385 seconds (JVM running for 1487.405)
+11:30 23:43:08.946 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on LAPTOP-AIM543VM with PID 27508 (C:\Users\my476\Downloads\ShoppingAppShipping\ShoppingAppShipping\target\classes started by my476 in C:\Users\my476\Downloads\ShoppingAppShipping\ShoppingAppShipping)
+11:30 23:43:08.947 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:30 23:43:11.674 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 2.824 seconds (JVM running for 1496.381)
+11:30 23:43:58.362 [http-nio-8081-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:30 23:46:42.686 [http-nio-8081-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:30 23:46:42.694 [http-nio-8081-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave

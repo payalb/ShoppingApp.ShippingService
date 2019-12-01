@@ -1,0 +1,89 @@
+11:28 15:06:58.095 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 13808 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 15:06:58.097 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 15:07:04.754 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 6.911 seconds (JVM running for 9.179)
+11:28 15:07:04.762 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 15:07:05.135 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 15:07:05.135 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 15:07:05.231 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 15:11:56.854 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 13808 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 15:11:56.855 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 15:12:51.327 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 13808 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 15:12:51.328 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 15:12:53.054 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 1.773 seconds (JVM running for 357.479)
+11:28 15:12:53.056 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 15:12:53.064 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 15:12:53.064 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 15:12:53.067 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 15:13:25.714 [http-nio-8080-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 15:13:25.802 [http-nio-8080-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 15:13:38.411 [http-nio-8080-exec-4] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindById
+11:28 15:13:38.419 [http-nio-8080-exec-4] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindById
+11:28 17:13:03.486 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 25388 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 17:13:03.488 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 17:13:11.550 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 8.332 seconds (JVM running for 10.212)
+11:28 17:13:11.558 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 17:13:11.657 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 17:13:11.657 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 17:13:11.660 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 17:13:46.637 [http-nio-8080-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindById
+11:28 17:13:46.663 [http-nio-8080-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindById
+11:28 17:13:54.882 [http-nio-8080-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindById
+11:28 17:13:54.885 [http-nio-8080-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindById
+11:28 17:14:06.471 [http-nio-8080-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindById
+11:28 17:14:06.474 [http-nio-8080-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindById
+11:28 17:14:31.250 [http-nio-8080-exec-5] [INFO] [c.e.demo.service.LoggingService] - Inside methodgetShippingBySenderId
+11:28 17:14:31.438 [http-nio-8080-exec-5] [INFO] [c.e.demo.service.LoggingService] - Exiting methodgetShippingBySenderId
+11:28 18:02:25.912 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 25388 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 18:02:25.912 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 18:02:59.588 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 25388 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 18:02:59.588 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 18:03:56.395 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 25388 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 18:03:56.395 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 18:03:58.170 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 1.8 seconds (JVM running for 3056.832)
+11:28 18:04:12.868 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 25388 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 18:04:12.869 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 18:04:14.374 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 1.532 seconds (JVM running for 3073.036)
+11:28 18:04:53.157 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 25388 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 18:04:53.157 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 18:04:54.685 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 1.555 seconds (JVM running for 3113.347)
+11:28 18:04:54.688 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 18:04:54.697 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 18:04:54.697 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 18:04:54.701 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 18:06:27.924 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 25388 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 18:06:27.924 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 18:06:29.447 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 1.547 seconds (JVM running for 3208.109)
+11:28 18:06:29.450 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 18:06:29.456 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 18:06:29.456 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 18:06:29.459 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 18:07:40.201 [http-nio-8080-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodgetShippingByStoreId
+11:28 18:07:40.210 [http-nio-8080-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodgetShippingByStoreId
+11:28 18:07:49.483 [http-nio-8080-exec-4] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 18:07:49.585 [http-nio-8080-exec-4] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 18:08:56.993 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 25388 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 18:08:56.994 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 18:08:58.438 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 1.467 seconds (JVM running for 3357.101)
+11:28 18:08:58.441 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 18:08:58.450 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 18:08:58.450 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 18:08:58.453 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 18:09:13.027 [http-nio-8080-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodgetShippingByStoreId
+11:28 18:09:38.177 [http-nio-8080-exec-5] [INFO] [c.e.demo.service.LoggingService] - Inside methodgetShippingByOrderId
+11:28 18:09:38.182 [http-nio-8080-exec-5] [INFO] [c.e.demo.service.LoggingService] - Exiting methodgetShippingByOrderId
+11:28 18:11:10.405 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 25388 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 18:11:10.405 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 18:11:11.913 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 1.528 seconds (JVM running for 3490.575)
+11:28 18:11:11.919 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 18:11:11.925 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 18:11:11.925 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 18:11:11.928 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 18:11:22.159 [http-nio-8080-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodgetShippingByStoreId
+11:28 18:11:22.164 [http-nio-8080-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodgetShippingByStoreId
+11:28 21:29:02.201 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Starting ShippingClient on DESKTOP-CQORGQ5 with PID 21808 (E:\workspace\ShoppingAppShipping\target\classes started by caich in E:\workspace\ShoppingAppShipping)
+11:28 21:29:02.203 [restartedMain] [INFO] [com.example.demo.ShippingClient] - No active profile set, falling back to default profiles: default
+11:28 21:29:08.743 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 6.856 seconds (JVM running for 9.182)
+11:28 21:29:08.754 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 21:29:09.133 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 21:29:09.133 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 21:29:09.137 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave

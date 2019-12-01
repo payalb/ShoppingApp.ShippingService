@@ -1,0 +1,23 @@
+12:02 00:26:29.684 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:02 00:26:46.968 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 22.197 seconds (JVM running for 24.23)
+12:02 02:50:04.917 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:02 02:51:30.199 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:02 02:51:44.206 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 18.661 seconds (JVM running for 19.991)
+12:02 02:53:22.249 [http-nio-8088-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:02 02:53:22.337 [http-nio-8088-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:02 02:54:39.460 [http-nio-8088-exec-3] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:02 02:54:39.464 [http-nio-8088-exec-3] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:02 02:54:40.531 [http-nio-8088-exec-4] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:02 02:54:40.535 [http-nio-8088-exec-4] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:02 02:56:24.515 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:02 02:56:31.357 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 9.582 seconds (JVM running for 307.142)
+12:02 02:56:44.104 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:02 02:56:51.238 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 9.816 seconds (JVM running for 327.023)
+12:02 02:57:26.354 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:02 02:57:32.309 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 8.647 seconds (JVM running for 368.095)
+12:02 02:57:54.989 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:02 02:58:14.087 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 23.406 seconds (JVM running for 24.932)
+12:02 02:58:54.875 [http-nio-8088-exec-1] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+12:02 02:58:55.021 [http-nio-8088-exec-1] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+12:02 03:04:33.039 [restartedMain] [INFO] [com.example.demo.ShippingClient] - The following profiles are active: prod
+12:02 03:04:40.929 [restartedMain] [INFO] [com.example.demo.ShippingClient] - Started ShippingClient in 10.777 seconds (JVM running for 411.774)
